@@ -1,0 +1,13 @@
+body{
+    width: 100%;
+}
+#calc{
+    width: 400px;
+    margin: 10px auto;
+}
+#calcFormResultLine{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
